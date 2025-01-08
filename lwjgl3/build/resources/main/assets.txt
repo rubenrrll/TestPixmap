@@ -1,0 +1,4 @@
+applause.wav
+image1.png
+image2.png
+libgdx.png
